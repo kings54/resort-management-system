@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resort-management-system/static/css/main.48832700.css",
+    "main.js": "/resort-management-system/static/js/main.daa9874d.js",
+    "static/js/453.96453769.chunk.js": "/resort-management-system/static/js/453.96453769.chunk.js",
+    "static/media/pexels-valeriya-9957547.jpg": "/resort-management-system/static/media/pexels-valeriya-9957547.2cb07b6add1244a35951.jpg",
+    "static/media/pexels-troopper84-26838689.jpg": "/resort-management-system/static/media/pexels-troopper84-26838689.68160e4cf17b204c2a7a.jpg",
+    "static/media/pexels-valeriya-25524075.jpg": "/resort-management-system/static/media/pexels-valeriya-25524075.91f37eac1405a6350aa6.jpg",
+    "static/media/pexels-sami-aksu-48867324-10484521.jpg": "/resort-management-system/static/media/pexels-sami-aksu-48867324-10484521.6cd2e92abf10cca9c3c9.jpg",
+    "static/media/pexels-amine-1285347-11581120.jpg": "/resort-management-system/static/media/pexels-amine-1285347-11581120.2ec8ddb0f24e691d53a7.jpg",
+    "static/media/herobackground.jpg": "/resort-management-system/static/media/herobackground.980f09ad995ee11d4ceb.jpg",
+    "static/media/pexels-ariana-gavra-388697-1162455.jpg": "/resort-management-system/static/media/pexels-ariana-gavra-388697-1162455.b2c1f0f4c993f7f25fdf.jpg",
+    "static/media/pexels-nadin-sh-78971847-24038051.jpg": "/resort-management-system/static/media/pexels-nadin-sh-78971847-24038051.adfb346170eabccb38fb.jpg",
+    "static/media/pexels-jeferson-gomes-24831766-15523622.jpg": "/resort-management-system/static/media/pexels-jeferson-gomes-24831766-15523622.07941f389905bb1c4ad9.jpg",
+    "static/media/pexels-viktor-tasnadi-87585-341048.jpg": "/resort-management-system/static/media/pexels-viktor-tasnadi-87585-341048.93d9b754a0f7b4f35f2c.jpg",
+    "index.html": "/resort-management-system/index.html",
+    "main.48832700.css.map": "/resort-management-system/static/css/main.48832700.css.map",
+    "main.daa9874d.js.map": "/resort-management-system/static/js/main.daa9874d.js.map",
+    "453.96453769.chunk.js.map": "/resort-management-system/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48832700.css",
+    "static/js/main.daa9874d.js"
+  ]
+}

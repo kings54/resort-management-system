@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resort Management System
 
 A modern, full-featured resort management web application for both guests and administrators. Includes booking modules for accommodation, dining, activities, spa, and events, plus a powerful admin dashboard for analytics, staff management, and more.
@@ -64,3 +65,6 @@ _Add screenshots or a demo GIF here_
 
 ## Contact
 For questions or support, open an issue or contact the maintainer. 
+=======
+# resort-management-system
+>>>>>>> 54d0535d840600ffaae49c2108d626427f90ff17

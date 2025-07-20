@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './RestaurantHome.css';
 import { useNavigate } from 'react-router-dom';
 
-const ADMIN_PASSWORD = 'admin123';
+const ADMIN_PASSWORD = '#######';
 
 const defaultMenu = [
   { id: 1, name: 'Truffle Pasta', price: 2200, type: 'Main', image: 'https://www.pexels.com/photo/gourmet-seafood-pasta-in-black-bowl-32640462/' },
